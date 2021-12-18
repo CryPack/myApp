@@ -1,0 +1,46 @@
+.Keyboard {
+    position: absolute;
+    top: 85.5%;
+    display: grid;
+    border: 1px solid gray;
+    margin: 1%;
+    border-radius: 10px;
+    padding: 1% 1% 1% 1%;
+    height: 100px;
+    width: 96%;
+}
+
+.Row1 {
+    display: flex;
+    border: 1px solid black;
+    padding: 0 0 0 0;
+}
+
+.Row2 {
+    display: flex;
+    border: 1px solid black;
+    padding: 0 0 0 0;
+}
+
+.Row3 {
+    display: flex;
+    border: 1px solid black;
+    padding: 0 0 0 0;
+}
+
+.But1 {
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 1px;
+}
+
+.But2 {
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+}
+
+.But3 {
+    margin-left: 2px;
+    margin-right: 2px;
+}
